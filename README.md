@@ -1,8 +1,5 @@
 # Test
 Тестовий репозиторій
-<h1>Закоментував зміни</h1>
-<h2>VSC в рази зручніше;)
-<!DOCTYPE html>
 <html lang="ukr">
 <style>
     body {
